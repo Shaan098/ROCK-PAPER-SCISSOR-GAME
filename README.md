@@ -17,13 +17,11 @@ Tracks:
 - 🟢 Wins  
 - 🔴 Losses  
 - 🟡 Ties  
-
 ### ✔ Auto-Play Mode  
 The game automatically plays every second using `setInterval()`:
 - Random moves for player and computer  
 - Score updates continuously  
 - Press again to stop autoplay  
-
 ### ✔ Reset Button  
 Clear the entire score and start again anytime.
 
