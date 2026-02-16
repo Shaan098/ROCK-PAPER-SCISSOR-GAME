@@ -4,7 +4,6 @@ This project recreates the classic hand game where the player competes against t
 
 -------
 
-
 ## 🚀 Features
 
 ### ✔ Play Against Computer  
