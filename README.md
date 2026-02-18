@@ -1,8 +1,10 @@
-# 🎮 Rock Paper Scissors Game  
+# 🎮 Rock Paper Scissors Game 
+
 A simple, interactive, and visually appealing **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.  
 This project recreates the classic hand game where the player competes against the computer with real-time results, animations, scoring, and autoplay features.
 -------
 ## 🚀 Features
+
 ### ✔ Play Against Computer  
 Choose **Rock**, **Paper**, or **Scissors** and instantly see the result.
 ### ✔ Random Computer Move  
