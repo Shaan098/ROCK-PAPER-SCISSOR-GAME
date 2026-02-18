@@ -85,7 +85,6 @@ By developing this project, I strengthened:
 
 ## 📄 License
 This project is free to use and modify.
-
 ---
 
 ## 👨‍💻 Author
